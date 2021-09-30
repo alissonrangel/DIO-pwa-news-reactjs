@@ -1,4 +1,4 @@
-# Projeto como atividade para o bootcamp de React da Digital Innovation One
+# Projeto PWA como atividade para o bootcamp de React da Digital Innovation One
 
 * Ministrado pelo professor Bruno Carneiro
 
