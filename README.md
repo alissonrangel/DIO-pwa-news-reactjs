@@ -1,3 +1,13 @@
+# Projeto como atividade para o bootcamp de React da Digital Innovation One
+
+* Ministrado pelo professor Bruno Carneiro
+
+# Recursos adicionais
+* Animação mostrando que a página principal está carregando utilizando o react-lottie (container: Home)
+* Mostrando o skeleton na hora do carregamento de um post específico (container: Post)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
